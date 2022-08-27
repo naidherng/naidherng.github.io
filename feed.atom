@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.aintelligent.com/</id>
+    <title>Gridsome Flex Markdown Start</title>
+    <updated>2022-08-27T08:48:59.761Z</updated>
+    <generator>Gridsome Feed Plugin</generator>
+    <link rel="alternate" href="https://blog.aintelligent.com/"/>
+    <link rel="self" href="https://blog.aintelligent.com/feed.atom"/>
+    <subtitle>My Starter</subtitle>
+    <entry>
+        <title type="html"><![CDATA[เริ่มบันทึก นายเทิ่ง สำมะปิ]]></title>
+        <id>https://blog.aintelligent.com/post/first-post/</id>
+        <link href="https://blog.aintelligent.com/post/first-post/"/>
+        <updated>2022-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[
+สวัสดีครับ ห่างหายไปนานมากกกกกก สำหรับการเขียนต่างๆ ทั้งเขียนจากปากกา ดินสอ หรือการพิมพ์บันทึก 5555555 ก่อนหน้านั้นก็ใช้ Wordpress บ้าง
+จนได้มาใช้งาน <a href="https://vuejs.org" target="_blank">Vue.js</a> ก็เลยได้รู้จักกับ <a href="https://gridsome.org/" target="_blank">Gridsome</a>
+ซึ่งเป็น Static site generator ซึ่งคอนเซ็ปเบื้องต้นคือมันจะให้เราเขียนรายละเอียดของโพลต์ในฟอร์แม็ต <a href="https://www.markdownguide.org/" target="_blank">Markdown</a>
+แล้วค่อยเอารายละเอียดนั้นมาแสดงผลอีกที
+> **วันเวลาผ่านไปๆ จึงอยากจะเอาสิ่งที่ยังพอจะมีในหัวย้ายมันออกมาเป็นบันทึก ก่อนที่มันจะนึกไม่ออกและหายไป ต้องเสียเวลารวบรวมใหม่**
+
+
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second post]]></title>
+        <id>https://blog.aintelligent.com/post/second-post/</id>
+        <link href="https://blog.aintelligent.com/post/second-post/"/>
+        <updated>2022-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[
+Find
+]]></content>
+    </entry>
+</feed>

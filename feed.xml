@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Gridsome Flex Markdown Start</title>
+        <link>https://blog.aintelligent.com/</link>
+        <description>My Starter</description>
+        <lastBuildDate>Sat, 27 Aug 2022 08:48:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Gridsome Feed Plugin</generator>
+        <atom:link href="https://blog.aintelligent.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[เริ่มบันทึก นายเทิ่ง สำมะปิ]]></title>
+            <link>https://blog.aintelligent.com/post/first-post/</link>
+            <guid>https://blog.aintelligent.com/post/first-post/</guid>
+            <pubDate>Sat, 27 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+สวัสดีครับ ห่างหายไปนานมากกกกกก สำหรับการเขียนต่างๆ ทั้งเขียนจากปากกา ดินสอ หรือการพิมพ์บันทึก 5555555 ก่อนหน้านั้นก็ใช้ Wordpress บ้าง
+จนได้มาใช้งาน <a href="https://vuejs.org" target="_blank">Vue.js</a> ก็เลยได้รู้จักกับ <a href="https://gridsome.org/" target="_blank">Gridsome</a>
+ซึ่งเป็น Static site generator ซึ่งคอนเซ็ปเบื้องต้นคือมันจะให้เราเขียนรายละเอียดของโพลต์ในฟอร์แม็ต <a href="https://www.markdownguide.org/" target="_blank">Markdown</a>
+แล้วค่อยเอารายละเอียดนั้นมาแสดงผลอีกที
+> **วันเวลาผ่านไปๆ จึงอยากจะเอาสิ่งที่ยังพอจะมีในหัวย้ายมันออกมาเป็นบันทึก ก่อนที่มันจะนึกไม่ออกและหายไป ต้องเสียเวลารวบรวมใหม่**
+
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Second post]]></title>
+            <link>https://blog.aintelligent.com/post/second-post/</link>
+            <guid>https://blog.aintelligent.com/post/second-post/</guid>
+            <pubDate>Sat, 27 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+Find
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
